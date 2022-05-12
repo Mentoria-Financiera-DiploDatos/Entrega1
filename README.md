@@ -1,3 +1,3 @@
 # Entrega1
 
-Entrega 1 de la Mentoría Datos Financieros de la Diplomatura en Ciencia de Datos de la FAMAF
+Entrega 1 de la Mentoría de Análisis de sentimientos en noticias e indicadores financieros de la Diplomatura en Ciencia de Datos de la FAMAF
